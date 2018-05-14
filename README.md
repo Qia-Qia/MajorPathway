@@ -3,8 +3,10 @@ Educational game; CSC 220 Final Project - Spring 2018 @Smith
 
 ## Introduction
 Students, especially first years, often feel overwhelmed by the rich and rigorous course offerings and major requirements when they transition to college - They are expected to find all related information at the department website on their own.\
-Although the website is a good resource, some further explanations are necessary to provide students with a big picture of their education. \
-With the goal of informing students in an interactive way, we want to build a browser “role playing game” to help students better understand the paths towards Computer Science majors and minors at Smith. \
+Although the website is a good resource, some further explanations are necessary to provide students with a big picture of their education. 
+
+With the goal of informing students in an interactive way, we want to build a browser “role playing game” to help students better understand the paths towards Computer Science majors and minors at Smith. 
+
 Ideally, it informs the players about the course offerings of CS department and the tracks they may go through. After playing this game, students would have a basic idea about what a CS major student’s education looks like.
 
 ## How to run:
